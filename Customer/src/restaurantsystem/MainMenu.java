@@ -39,9 +39,10 @@ public class MainMenu extends javax.swing.JFrame {
         setCursor(new java.awt.Cursor(java.awt.Cursor.DEFAULT_CURSOR));
         setLocationByPlatform(true);
 
-        jPanel2.setBackground(new java.awt.Color(204, 204, 255));
+        jPanel2.setBackground(new java.awt.Color(153, 153, 255));
         jPanel2.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
+        exitButton.setBackground(new java.awt.Color(204, 204, 204));
         exitButton.setText("Exit");
         exitButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
@@ -49,7 +50,8 @@ public class MainMenu extends javax.swing.JFrame {
             }
         });
 
-        orderManagementButton.setText("Order Management");
+        orderManagementButton.setBackground(new java.awt.Color(102, 102, 255));
+        orderManagementButton.setText("Place an order");
         orderManagementButton.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 orderManagementButtonActionPerformed(evt);

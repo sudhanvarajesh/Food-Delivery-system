@@ -12,6 +12,7 @@ import restaurantsystem.MainMenu;
  *
  * @author swaroop, soham, sudhanva
  */
+
 public class Login extends javax.swing.JFrame {
 
     /**
@@ -52,7 +53,7 @@ public class Login extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         loginPanel.setBackground(new java.awt.Color(153, 153, 255));
-        loginPanel.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "FSKTM Restaurant", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Lucida Grande", 0, 13), new java.awt.Color(0, 0, 204))); // NOI18N
+        loginPanel.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "OOAD Restaurant?", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Lucida Grande", 0, 13), new java.awt.Color(0, 0, 204))); // NOI18N
         loginPanel.setForeground(new java.awt.Color(153, 153, 255));
         loginPanel.setToolTipText("");
         loginPanel.setName(""); // NOI18N
@@ -148,7 +149,6 @@ public class Login extends javax.swing.JFrame {
     }//GEN-LAST:event_loginButtonActionPerformed
 
     private void userNameFieldActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_userNameFieldActionPerformed
-        // TODO add your handling code here:
     }//GEN-LAST:event_userNameFieldActionPerformed
 
     /**
