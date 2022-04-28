@@ -10,7 +10,7 @@ import restaurantsystem.service.ItemService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class ViewItem extends javax.swing.JFrame {
 

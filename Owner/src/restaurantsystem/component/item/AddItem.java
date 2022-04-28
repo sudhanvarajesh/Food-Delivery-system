@@ -11,7 +11,7 @@ import restaurantsystem.service.ItemService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class AddItem extends javax.swing.JFrame {
     

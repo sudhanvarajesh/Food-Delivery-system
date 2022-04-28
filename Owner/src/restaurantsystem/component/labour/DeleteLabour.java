@@ -10,7 +10,7 @@ import restaurantsystem.service.LabourService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class DeleteLabour extends javax.swing.JFrame {
     

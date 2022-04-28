@@ -16,7 +16,7 @@ import restaurantsystem.component.auth.Login;
 import java.sql.*;
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class Main extends JFrame {
 

@@ -12,7 +12,7 @@ import restaurantsystem.service.LabourService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class UpdateLabour extends javax.swing.JFrame {
 

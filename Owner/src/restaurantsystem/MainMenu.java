@@ -11,7 +11,7 @@ import restaurantsystem.component.order.OrderManagement;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class MainMenu extends javax.swing.JFrame {
 

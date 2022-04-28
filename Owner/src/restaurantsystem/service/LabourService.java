@@ -29,7 +29,7 @@ import restaurantsystem.model.Labour;
 
 /**
  *
- * @author Sopnopriyo
+ * @author swaroop, soham, sudhanva
  */
 public class LabourService {
 

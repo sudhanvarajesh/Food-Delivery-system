@@ -7,7 +7,7 @@ package restaurantsystem.model;
 
 /**
  *
- * @author Sopnopriyo
+ * @author swaroop, soham, sudhanva
  */
 public class OrderLine {
     private int orderID;

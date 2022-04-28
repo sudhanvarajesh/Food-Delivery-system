@@ -9,7 +9,7 @@ import restaurantsystem.MainMenu;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class ItemManagement extends javax.swing.JFrame {
 

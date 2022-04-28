@@ -11,7 +11,7 @@ import restaurantsystem.service.LabourService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class AddLabour extends javax.swing.JFrame {
 

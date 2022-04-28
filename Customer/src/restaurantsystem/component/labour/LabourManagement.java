@@ -9,7 +9,7 @@ import restaurantsystem.MainMenu;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class LabourManagement extends javax.swing.JFrame {
 

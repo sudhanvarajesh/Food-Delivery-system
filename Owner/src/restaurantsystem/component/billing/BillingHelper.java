@@ -12,7 +12,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class BillingHelper {
 

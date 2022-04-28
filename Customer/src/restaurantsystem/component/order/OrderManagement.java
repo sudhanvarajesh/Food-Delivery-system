@@ -28,7 +28,7 @@ import restaurantsystem.service.OrderService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class OrderManagement extends javax.swing.JFrame {
 

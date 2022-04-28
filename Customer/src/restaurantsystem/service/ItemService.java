@@ -27,7 +27,7 @@ import restaurantsystem.model.Item;
 
 /**
  *
- * @author Sopnopriyo
+ * @author swaroop, soham, sudhanva
  */
 public class ItemService {
 

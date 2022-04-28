@@ -13,7 +13,7 @@ import restaurantsystem.MainMenu;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class BillingManagement extends javax.swing.JFrame {
 

@@ -9,7 +9,7 @@ import restaurantsystem.service.LabourService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class ViewLabour extends javax.swing.JFrame {
 

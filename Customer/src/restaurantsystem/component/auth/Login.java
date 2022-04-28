@@ -10,7 +10,7 @@ import restaurantsystem.MainMenu;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class Login extends javax.swing.JFrame {
 

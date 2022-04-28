@@ -10,7 +10,7 @@ import restaurantsystem.service.ItemService;
 
 /**
  *
- * @author Shahin
+ * @author swaroop, soham, sudhanva
  */
 public class DeleteItem extends javax.swing.JFrame {
 
